@@ -1,2 +1,65 @@
-# Exploratory-data-analysis-Projects
-Portfolio of Exploratory Data Analysis (EDA) projects 
+# Data Analytics Portfolio – EDA Projects
+
+Welcome to my **Exploratory Data Analysis (EDA) Portfolio**!
+This repository is a collection of my data analysis projects where I explore datasets, uncover insights, and visualize trends using Python and data analytics tools.
+
+---
+
+## About Me
+
+I am a **BBA student** with a growing interest in **Data Analytics and Business Intelligence**.
+I enjoy working with real-world datasets and transforming raw data into meaningful insights.
+
+---
+
+## Tools & Technologies Used
+
+* Python 
+* Pandas & NumPy
+* Matplotlib,plotly & Seaborn
+* Jupyter Notebook / Google Colab / Kaggle
+* Data Cleaning & Visualization Techniques
+
+---
+
+## EDA Projects
+
+### 1. Netflix 
+
+* **Description:** Analysis of Netflix content to understand trends in movies, TV shows, ratings, and release patterns
+* **GitHub Link:** https://github.com/bhumikas1123-hash/Netflix
+
+---
+
+### 2. MagicBricks Real Estate 
+
+* **Description:** Analysis of housing data to understand property trends, pricing variations, and location-based patterns
+* **GitHub Link:** https://github.com/bhumikas1123-hash/Magicbricks
+
+---
+
+### 3. IMBD 
+
+* **Description:** Analysis of IMDb movie data to examine trends in ratings, genres, and movie releases over time
+* **GitHub Link:** https://github.com/bhumikas1123-hash/IMDB
+---
+
+### 3. Zomato 
+
+* **Description:** Analysis of Zomato restaurant data to examine trends in customer preferences, ratings, and cost patterns.
+* **GitHub Link:** https://github.com/bhumikas1123-hash/Zomato
+  
+---
+
+## What I Focus On
+
+* Data Cleaning & Wrangling
+* Univariate, Bivariate & Multivariate Analysis
+* Data Visualization & Storytelling
+* Extracting Business Insights
+
+---
+
+## Acknowledgment
+
+This portfolio is part of my learning journey in **Data Analytics**, where I continuously improve my skills by working on diverse datasets and real-world problems.
