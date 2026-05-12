@@ -33,11 +33,19 @@ This repository is a collection of my data analysis projects where I explore dat
 
 ### 3. IMBD 
 
-* **Description:** Analysis of IMDb movie data to examine trends in ratings, genres, and movie releases over time
+* **Description:** Analysis of IMDB movie data to examine trends in ratings, genres, and movie releases over time
 * **GitHub Link:** https://github.com/bhumikas1123-hash/IMDB
+
 ---
 
-### 4. BigBasket
+### 4. Zomato
+
+* **Description:** Analysis of Zomato restaurant data to understand trends in cuisines, ratings, costs, and customer preferences
+* **GitHub Link:** https://github.com/bhumikas1123-hash/Zomato-EDA
+
+---
+
+### 5. BigBasket
 
 * **Description:** Exploratory data analysis of BigBasket product data to examine pricing trends, discounts, product categories, and brand performance using Python and visualization techniques.
 * **GitHub Link:** https://github.com/bhumikas1123-hash/BigBasket-EDA
