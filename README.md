@@ -37,10 +37,13 @@ This repository is a collection of my data analysis projects where I explore dat
 * **GitHub Link:** https://github.com/bhumikas1123-hash/IMDB
 ---
 
-### 3. Zomato 
+### 4. BigBasket
 
-* **Description:** Analysis of Zomato restaurant data to examine trends in customer preferences, ratings, and cost patterns.
-* **GitHub Link:** https://github.com/bhumikas1123-hash/Zomato
+* **Description:** Exploratory data analysis of BigBasket product data to examine pricing trends, discounts, product categories, and brand performance using Python and visualization techniques.
+* **GitHub Link:** https://github.com/bhumikas1123-hash/BigBasket-EDA
+
+
+
   
 ---
 
