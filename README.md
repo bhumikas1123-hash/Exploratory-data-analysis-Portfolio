@@ -5,13 +5,6 @@ This repository is a collection of my data analysis projects where I explore dat
 
 ---
 
-## About Me
-
-I am a **BBA student** with a growing interest in **Data Analytics and Business Intelligence**.
-I enjoy working with real-world datasets and transforming raw data into meaningful insights.
-
----
-
 ## Tools & Technologies Used
 
 * Python 
